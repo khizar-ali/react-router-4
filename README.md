@@ -1,1 +1,1 @@
-Hands on to React-Router-4. Alot of improvements and did animated page transitions. 
+React-Router-4. Improvements in handling routes and animated page transitions with react transition group.
